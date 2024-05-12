@@ -9,3 +9,5 @@
 >- https://upscodigojava.wordpress.com/category/programacion-2/puerto-serial/puerto-serial-libreria-rxtx/
 >- https://drive.google.com/drive/u/0/folders/0B5hrmYFMyWPMbTI4OW5KZ2N1amM?resourcekey=0-ol_qiR3B8xyKaStZ3P8mcw
 >- https://drive.google.com/drive/u/0/folders/0B5hrmYFMyWPMcVgwUmZTNzdMYk0?resourcekey=0-m6U_cpvvcx9tjddGGI6zng
+>- https://upscodigojava.wordpress.com/category/programacion-2/puerto-serial/puerto-serial-libreria-rxtx/
+>- https://eterlogic.com/Products.VSPE.html
